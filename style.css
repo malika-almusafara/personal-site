@@ -1,0 +1,33 @@
+* {
+    font-family: 'PT Serif', serif;
+}
+
+.blackhome {
+    background-color: white;
+}
+
+#imgs {
+    height: 100vh;
+    width: 1300px;
+    }
+
+#white1 {
+    color: black;
+    float: left;
+}
+
+.medicial-icon {
+    border-radius: 50%;
+}
+
+
+.flex-items1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center!important;
+    text-align: center;
+}
+
+#float1 {
+    float:left;
+}
